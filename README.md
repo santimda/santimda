@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santiago del Palacio, an astrophysicist doing research in high-energy phenomena. 
-- 👀 I’m interested in numerical calculations of radiative processes. I code mostly in Fortran90, but I'm improving my skills in python and using it every time more.
+- 👀 I’m interested in numerical calculations of radiative processes. I code mostly in Fortran90 and Python.
 - I’m always open for scientific collaborations! 
 
 <!---
