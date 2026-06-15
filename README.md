@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Santiago del Palacio, an astrophysicist and data scientist who has done mostly research in high-energy phenomena. 
-- 👀 I’m interested in numerical calculations of radiative processes. I code mostly in Fortran90 and Python, but more recently I started working with SQL as well.
-- I’m always open for collaborations! 
+- 👋 Hi, I’m Santiago del Palacio, an astrophysicist and data scientist who has done research in high-energy phenomena using multi-wavelength data from radio antennas to X-ray and gamma-ray observatories. 
+- 👀 For astronomical work, I’m most interested in numerical calculations of radiative processes. For this I code mostly in Fortran90 and Python. Reach me at: santiago.delpalacio.astro.at.gmail.com
+- ✨ Looking to transition to more data-science work! I use mostly SQL and Python, with some practice in dashboards for data presentation.
+- I’m always open for collaborations and discussions! 
 
 <!---
 - 📫 How to reach me: santiagodp1990.at.gmail.com
